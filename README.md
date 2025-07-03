@@ -26,17 +26,6 @@ It uses a clean interface with input validation, meaningful UI colors, and is bu
 
 ---
 
-## 📱 App UI Preview
-
-```
-[ Screenshot 1: Strike Rate Input ]  
-[ Screenshot 2: Average Input ]  
-```
-
-*(You can upload your actual screenshots in a `screenshots/` folder and link them here.)*
-
----
-
 ## 📂 Project Structure
 
 ```
