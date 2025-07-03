@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Batsman Stats</string>
+    <string name="Heading">Batsman SR and Average Calculator</string>
+    <string name="SR_heading">Calculate Strike Rate of Batsman</string>
+    <string name="Balls_Played">Enter No. of balls played</string>
+    <string name="Runs_Scored">Enter No. of runs scored</string>
+    <string name="Avg_Heading">Calculate Average of Batsman</string>
+    <string name="Dismissals">Enter No. of dismissals</string>
+    <string name="calculate_average">Calculate Average</string>
+    <string name="SR_Display">Strike Rate will be shown here</string>
+    <string name="Avg_display">Average will be displayed here</string>
+    <string name="calculate_sr">Calculate SR</string>
+</resources>
